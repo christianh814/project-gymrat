@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<?php include "includes/pages/header.php"; ?>
-
-<?php include "includes/pages/navigation.php"; ?>
+<?php
+include "includes/pages/header.php";
+include "includes/pages/navigation.php";
+?>
 
     <div class="container">
 
