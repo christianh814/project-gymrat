@@ -3,6 +3,7 @@
 
 <?php include "includes/pages/navigation.php"; ?>
 
+<!--
     <div class="container">
 
       <div class="row row-offcanvas row-offcanvas-right">
@@ -11,6 +12,7 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
+-->
           <div class="jumbotron">
             <h1>Hello, world!</h1>
             <p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
@@ -68,7 +70,7 @@
       <hr>
 
       <footer>
-        <p>&copy; 2016 Company, Inc.</p>
+        <p>&copy; 2016 uFit, Inc.</p>
       </footer>
 
     </div><!--/.container-->
