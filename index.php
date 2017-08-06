@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <?php include "includes/pages/header.php"; ?>
-  <body>
     <nav class="navbar navbar-fixed-top navbar-inverse">
       <div class="container">
         <div class="navbar-header">
