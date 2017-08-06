@@ -14,7 +14,7 @@
 
     <link rel="icon" href="favicon.ico">
 
-    <title>Off Canvas Template for Bootstrap</title>
+    <title>uFit PLACEHOLDER</title>
 
     <!-- Custom styles for this template -->
     <link href="css/offcanvas.css" rel="stylesheet">
