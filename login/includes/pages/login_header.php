@@ -11,7 +11,7 @@
 
     <link rel="icon" href="../../../favicon.ico">
 
-    <title>Signin Template</title>
+    <title>Login</title>
 
     <!-- Custom styles for this template -->
     <link href="../../../css/login.css" rel="stylesheet">

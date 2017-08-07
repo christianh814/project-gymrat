@@ -1,6 +1,7 @@
 <?php include "includes/pages/login_header.php" ; ?>
     <div class="container">
 
+<!-- Login Form -->
       <form class="form-signin">
         <h2 class="form-signin-heading">Please sign in</h2>
         <label for="inputEmail" class="sr-only">Email address</label>
@@ -14,6 +15,7 @@
         </div>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
       </form>
+<!-- END Login Form -->
 
     </div> <!-- /container -->
 
