@@ -1,4 +1,4 @@
-<?php include "../includes/pages/header.php" ; ?>
+<?php include "includes/pages/login_header.php" ; ?>
     <div class="container">
 
       <form class="form-signin">
@@ -17,4 +17,4 @@
 
     </div> <!-- /container -->
 
-<?php include "../includes/pages/footer.php"; ?>
+<?php include "includes/pages/login_footer.php" ; ?>
