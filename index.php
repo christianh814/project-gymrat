@@ -1,6 +1,7 @@
 <?php
 include "includes/pages/header.php";
 include "includes/pages/navigation.php";
+//
 ?>
 
     <div class="container">

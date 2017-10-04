@@ -1,0 +1,13 @@
+{
+    "name": "uFit",
+    "require": {
+        "sendgrid/sendgrid": "~6.0",
+	"facebook/graph-sdk": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Christian Hernandez",
+            "email": "c_hernand1982@yahoo.com"
+        }
+    ]
+}
