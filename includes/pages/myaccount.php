@@ -3,9 +3,9 @@ $user_id = $_SESSION['user_logged_in_id'];
 $user_obj = new User($con);
 $userinfo = $user_obj->userInfo($user_id);
 ?>
-<div class="col-xs-6 col-lg-4">
+<div class="col-xs-6 col-xs-4">
         <a href="#aboutModal" data-toggle="modal" data-target="#myModal"><img src="<?php echo $userinfo['picture'] ?>" name="aboutme" width="140" height="140" class="img-circle"></a>
-        <h3><?php echo $userinfo['first_name'] . " ". $userinfo['last_name'] ?></h3>
+        <h4><?php echo $userinfo['first_name'] . " ". $userinfo['last_name'] ?></h4>
         <!-- <em>(Click Picture for Settings)</em> -->
     </div>
     <!-- Modal -->
@@ -37,4 +37,34 @@ $userinfo = $user_obj->userInfo($user_id);
                 </div>
             </div>
         </div>
+</div>
+ <div class="table-responsive col-xs-6 col-xs-4">
+  <table class="table">
+  <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>John</td>
+        <td>Doe</td>
+        <td>john@example.com</td>
+      </tr>
+      <tr>
+        <td>Mary</td>
+        <td>Moe</td>
+        <td>mary@example.com</td>
+      </tr>
+      <tr>
+        <td>July</td>
+        <td>Dooley</td>
+        <td>july@example.com</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="col-xs-6 col-xs-4">
 </div>

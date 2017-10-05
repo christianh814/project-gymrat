@@ -1,4 +1,5 @@
 <!-- navigation bar -->
+
     <nav class="navbar navbar-fixed-top navbar-inverse">
       <div class="container">
         <div class="navbar-header">
@@ -19,4 +20,5 @@
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
     </nav><!-- /.navbar -->
+
 <!-- END navigation bar -->
