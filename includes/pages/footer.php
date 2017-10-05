@@ -1,3 +1,8 @@
+<div class="container">
+<footer>
+	<p>&copy; 2016 uFit, Inc.</p>
+</footer>
+</div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

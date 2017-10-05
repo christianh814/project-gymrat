@@ -17,7 +17,7 @@ class User {
 	}
 
 	public function userInfo($id) {
-		$sql = "SELECT * FROM user WHERE id = '{$id}' ";
+		$sql = "SELECT * FROM users WHERE id = '{$id}' ";
 		$query = mysqli_query($this->con, $sql);
 		return mysqli_fetch_array($query);
 	}
